@@ -1,4 +1,4 @@
-module dazao.local/dzutils
+module github.com/zhaoseagull/dzutils
 
 go 1.16
 
